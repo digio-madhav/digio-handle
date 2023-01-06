@@ -1,0 +1,26 @@
+{
+  "name": "two-way-sdk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "digio"
+  ],
+  "author": "digio.in",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digio-tech/two-way-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/digio-tech/two-way-sdk/issues"
+  },
+  "homepage": "https://github.com/digio-tech/two-way-sdk#readme",
+  "devDependencies": {
+    "jquery": "^3.6.3"
+  }
+}
